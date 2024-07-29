@@ -13,11 +13,11 @@ This script is a simple and user-friendly tool designed to automate basic networ
 1. Open a terminal window.
 2. Clone the repository:
    ```
-   git clone https://github.com/your-username/nmap-scan-script.git
+   git clone https://github.com/mosec0/Nmap_Scan.git
 
   ## Navigate to the script directory:
 
-    cd nmap-scan-script
+    cd Nmap_Scan
 
 ## Make the script executable:
 
